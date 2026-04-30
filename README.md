@@ -40,6 +40,12 @@ This project was designed to answer five major questions:
 
 The dataset employed here is a simulated version of a real Ethiopian education dataset, specifically crafted to reflect the characteristics and challenges of actual student records. Real government data of this nature is confidential and inaccessible, making this simulated dataset an invaluable resource for this study.The raw dataset is a vary rich data covering demographics, parental background, school characteristics, attendance, homework, and national examination results.
 
+Due to GitHub file size limitations, the dataset is hosted externally.
+
+Processed dataset used in this project is loaded directly within the notebook.
+
+Original source: [https://www.kaggle.com/datasets/yeneinehseiba/ethiopian-students-data]
+
 ### Raw Dataset Size:
 
 - **100,000 student records**
